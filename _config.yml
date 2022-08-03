@@ -11,20 +11,20 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Fernando
+username: Fernando García
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: follow me on ...
 # email: Your E-Mail address for the email button.
 email: fegarc05@ucm.es
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: FernandoGaGu
-codepen_username: exampleUser
-dev_username: exampleUser
+codepen_username: 
+dev_username: 
 linkedin_username: garciagu-fernando
-twitter_username: exampleUser
+twitter_username: fernandoGaGu7
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,21 +34,22 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: These days we are all familiar with hearing about the potential of Artificial Intelligence (AI), Machine Learning, and Deep Learning. Indeed, despite not being aware of it, these techniques have burst into many aspects of our daily lives. For example, we all have smartphones with facial/fingerprint recognition, use virtual assistants, or are used to the different recommendation systems of Amazon and Netflix. And, what's behind it? Exactly, AI models. However, this is not all. AI has burst into different domains being used for industrial processes, cybersecurity, autonomous cars, chips and chemistry design, and of course, biomedical research. The implementation of Artificial Intelligence techniques in the field of biomedical research is one of the most exciting applications with tremendous potential to revolutionize our society. Currently, I am a Ph.D. student at the Department of Computer Architecture and Automatics of the Complutense University of Madrid and a researcher in neurodegenerative diseases at the ACE (Alzheimer's Center) foundation in Barcelona. My primary field of study is the application of Artificial Intelligence models in the research of neurodegenerative diseases. My intention with this website is to collect some of the most interesting applications and concepts of AI and to show some of the most exciting applications in biomedical research.
 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
 # TIMELINE SECTION
+# TODO ->>>>>>>>>>>>>>>>>>>>>>> UPDATE
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
@@ -59,25 +60,26 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: true
+show_projects: false
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
 # CONTACT SECTION
+# TODO ->>>>>>>>>>>>>>>>>>>>>>>>>> UPDATE
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-show_contact_card: true
+show_contact_card: false
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
