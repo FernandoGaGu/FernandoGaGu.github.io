@@ -1,0 +1,13 @@
+{% if site.show_blog_card %}
+  <h1 class="title">Latest posts</h1>
+  <div class="projects-wrapper">
+  {% for post in site.posts %}
+    <div class="project neumorphism-card" data-aos="zoom-in-down">
+      <div class="name-link-wrapper">
+        <h3><a class="apost" href="{{ post.url }}" target=”_blank”>{{ post.title }}</a></h3>
+      </div>
+      <p class="project-desc">{{post.description}}</p>
+    </div>
+  {% endfor %}
+  </div>
+{% endif %}
