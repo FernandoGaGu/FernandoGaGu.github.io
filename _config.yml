@@ -38,7 +38,8 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: These days we are all familiar with hearing about the potential of Artificial Intelligence (AI), Machine Learning, and Deep Learning. Indeed, despite not being aware of it, these techniques have burst into many aspects of our daily lives. For example, we all have smartphones with facial/fingerprint recognition, use virtual assistants, or are used to the different recommendation systems of Amazon and Netflix. And, what's behind it? Exactly, AI models. However, this is not all. AI techniques have revolutionized many other domains being applied in industrial processes, cybersecurity, autonomous cars, chips and chemistry design, and of course, biomedical research. The implementation of AI techniques in the field of biomedical research is one of the most exciting applications with tremendous potential to revolutionize our society.<br><br> Currently, I am a Ph.D. student at the Department of Computer Architecture and Automatics of the Complutense University of Madrid and a researcher in neurodegenerative diseases at the ACE (Alzheimer's Center) foundation in Barcelona. My primary field of study is the application of AI models in the research of neurodegenerative diseases. My intention with this website is to collect some of the most interesting applications and concepts of AI and to show the most exciting applications in biomedical research.
+about_me_description: Ph.D. student at the Department of Computer Architecture and Automatics of the Complutense University of Madrid and a researcher in neurodegenerative diseases at the ACE (Alzheimer's Center) foundation in Barcelona.
+
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
