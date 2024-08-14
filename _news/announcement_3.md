@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-08-15 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+
+__Publication :sparkles:__ "Predicting changes in brain metabolism and progression from mild cognitive impairment to dementia using multitask Deep Learning models and explainable AI" Neuroimage.
