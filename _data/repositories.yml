@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - FernandoGaGu
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - FernandoGaGu/GoJo-ML
+  - FernandoGaGu/pywinEA2
+  - FernandoGaGu/Ant-Colony-Optimisation
+  - FernandoGaGu/chest-xray-pyspark
+  - FernandoGaGu/DrugInterBankOntology
