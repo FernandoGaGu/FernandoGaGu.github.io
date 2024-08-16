@@ -7,7 +7,7 @@ subtitle: >
   Data Scientist, Ace Alzheimer Center Barcelona
 profile:
   align: right
-  image: profile.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: 
 news: true # includes a list of news items
