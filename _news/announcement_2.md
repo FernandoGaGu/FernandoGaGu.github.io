@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
-__Publication :sparkles:__ "Federated learning for cognitive impairment detection using speech data". Frontiers in Artificial Intelligence
+**Publication :sparkles:** "Federated learning for cognitive impairment detection using speech data". Frontiers in Artificial Intelligence

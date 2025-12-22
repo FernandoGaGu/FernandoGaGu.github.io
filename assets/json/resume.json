@@ -30,10 +30,7 @@
       "startDate": "2020-02-01",
       "endDate": "2020-07-31",
       "summary": "Development of predictive models applied to neurodegenerative diseases.",
-      "highlights": [
-        "Artificial Intelligence", 
-        "Neurodegenerative diseases"
-      ]
+      "highlights": ["Artificial Intelligence", "Neurodegenerative diseases"]
     },
     {
       "name": "Investing PROFit Wisely (currently HWK TechInvestment)",
@@ -42,11 +39,7 @@
       "startDate": "2021-05-01",
       "endDate": "2022-04-01",
       "summary": "Implementation of financial AI models and development of fundamental analysis strategies.",
-      "highlights": [
-        "Artificial Intelligence", 
-        "Financial analysis",
-        "Time series forecasting"
-      ]
+      "highlights": ["Artificial Intelligence", "Financial analysis", "Time series forecasting"]
     },
     {
       "name": "Department of Artificial Intelligence and Big Data applied to Neurology, Ace Alzheimer Center Barcelona",
@@ -55,12 +48,7 @@
       "startDate": "2022-04-01",
       "endDate": "2024-10-01",
       "summary": "Development of pipelines and application of AI models based on neuroimaging, speech and neuropsychological data.",
-      "highlights": [
-        "Artificial Intelligence", 
-        "Neuroimaging",
-        "Natural language processing",
-        "Neuropsychological data"
-      ]
+      "highlights": ["Artificial Intelligence", "Neuroimaging", "Natural language processing", "Neuropsychological data"]
     },
     {
       "name": "Intelygenz - VASS",
@@ -69,14 +57,7 @@
       "startDate": "2024-10-01",
       "endDate": "Present",
       "summary": "Consultant specialized in Artificial Intelligence.",
-      "highlights": [
-        "Artificial Intelligence",
-        "Generative AI",
-        "Agents",
-        "Computer vision",
-        "Gaussian splatting",
-        "Document solutions"
-      ]
+      "highlights": ["Artificial Intelligence", "Generative AI", "Agents", "Computer vision", "Gaussian splatting", "Document solutions"]
     }
   ],
   "education": [
@@ -89,7 +70,9 @@
       "startDate": "2015-10-01",
       "endDate": "2019-06-01",
       "score": "",
-      "courses": ["Thesis: Exploring the development and applications of DESI-MS (desorption electrospray ionization mass spectrometry) and REIMS (rapid evaporative ionization mass spectrometry) technologies."]
+      "courses": [
+        "Thesis: Exploring the development and applications of DESI-MS (desorption electrospray ionization mass spectrometry) and REIMS (rapid evaporative ionization mass spectrometry) technologies."
+      ]
     },
     {
       "institution": "Polytechnic University of Madrid",
@@ -147,10 +130,8 @@
       "icon": ""
     }
   ],
-  "interests": [
-  ],
-  "references": [
-  ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
       "name": "SpeechDx",
