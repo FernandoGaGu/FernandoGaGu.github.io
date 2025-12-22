@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
-  PhD Candidate in Computer Science, Complutense University of Madrid <br>
-  Data Scientist, Ace Alzheimer Center Barcelona
+  Senior Data Scientist, VASS <br>
+  PhD Candidate in Computer Science, Complutense University of Madrid
 profile:
   align: right
   image: profile.png

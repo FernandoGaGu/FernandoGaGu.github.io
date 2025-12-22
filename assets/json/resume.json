@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Fernando García Gutiérrez",
-    "label": "Data Scientists",
+    "label": "Senior Data Scientist",
     "image": "",
     "email": "ga.gu.fernando.contact@gmail.com",
     "phone": "",
@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Barcelona",
+      "city": "Santander",
       "countryCode": "ES",
-      "region": "Cataluña"
+      "region": "Cantabria"
     },
     "profiles": [
       {
@@ -36,29 +36,46 @@
       ]
     },
     {
-      "name": "Investing PROFit Wisely",
-      "position": "Quantitative Analyst",
-      "url": "https://www.ipw.es/",
+      "name": "Investing PROFit Wisely (currently HWK TechInvestment)",
+      "position": "Data Scientist",
+      "url": "https://hwk.es/es",
       "startDate": "2021-05-01",
       "endDate": "2022-04-01",
       "summary": "Implementation of financial AI models and development of fundamental analysis strategies.",
       "highlights": [
         "Artificial Intelligence", 
-        "Time series analysis"
+        "Financial analysis",
+        "Time series forecasting"
       ]
     },
     {
       "name": "Department of Artificial Intelligence and Big Data applied to Neurology, Ace Alzheimer Center Barcelona",
-      "position": "Researcher in applied Artificial Intelligence (AI)",
+      "position": "Data Scientist",
       "url": "https://www.fundacioace.com/",
       "startDate": "2022-04-01",
-      "endDate": "Present",
+      "endDate": "2024-10-01",
       "summary": "Development of pipelines and application of AI models based on neuroimaging, speech and neuropsychological data.",
       "highlights": [
         "Artificial Intelligence", 
         "Neuroimaging",
         "Natural language processing",
         "Neuropsychological data"
+      ]
+    },
+    {
+      "name": "Intelygenz - VASS",
+      "position": "Senior Data Scientist",
+      "url": "https://www.fundacioace.com/",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "Consultant specialized in Artificial Intelligence.",
+      "highlights": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Agents",
+        "Computer vision",
+        "Gaussian splatting",
+        "Document solutions"
       ]
     }
   ],
@@ -106,13 +123,14 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Supervised, unsupervised and semi-supervised learning",
-        "Generative models",
+        "Computer vision",
         "Reinforcement learning",
+        "Gaussian splatting",
+        "Generative AI",
+        "AI agents",
         "Probabilistic graphical models",
         "Explainable Artificial Intelligence",
-        "Graph Neural Networks",
-        "Feature selection techniques",
+        "Evolutionary computing",
         "Time series modeling"
       ]
     }
